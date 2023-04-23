@@ -892,9 +892,11 @@ function getRandomInt(max) {
   }
 
 function soundGo(soundPath){
-    var sound = new Audio(soundPath);
-    sound.volume = 0.6;
-    sound.play();
+    if (!mute){
+        var sound = new Audio(soundPath);
+        sound.volume = 0.6;
+        sound.play();
+    }
 }
 
 
