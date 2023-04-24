@@ -1,0 +1,40 @@
+
+.gameContainer {
+    margin-top: 2%;
+  }
+
+canvas {
+    display: block;
+    position: fixed;
+    z-index: 0;
+
+
+  }
+
+#muteBtn
+{
+ z-index: 5;
+ position: fixed;
+ right: 0;
+ bottom: 6%;
+}
+
+#muteBtn:hover
+{
+  cursor: pointer;
+
+}
+
+#playBtn
+{
+ z-index: 5;
+ position: fixed;
+ right: 3.2%;
+ bottom: 6.56%;
+}
+
+#playBtn:hover
+{
+  cursor: pointer;
+}
+
