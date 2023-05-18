@@ -1,4 +1,3 @@
-Space Invaders Web Game
 <h1 align='center'>
   Project 2 - Space Invaders
 </h1>
