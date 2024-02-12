@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Project 2 - Space Invaders
+  Space Invaders
 </h1>
 
 <h2 align='center'>
-  Ido Lourie - 204767651<br>Elad Shmulevich - 313361040
+ 
 </h2>
 
 <img src="https://images.launchbox-app.com/15f9cf98-65fb-4e3c-b94b-09e427b5f837.png"><img/>
